@@ -1,0 +1,49 @@
+
+.navbar_container
+{
+    background-color:rgb(61, 60, 60) ;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.navbar_container a
+{
+    background-color: white;
+    color: #1369b9;
+    font-weight: 500;
+    font-size: 20px;
+    align-self: center;
+    text-align: center;
+    padding: 5px 5px;
+    width: 200px;
+    /* padding: 10px 10px; */
+    text-decoration: none;
+    border-radius: 5px;
+    
+    /* margin: 10px; */
+   
+}
+.navbar_box 
+{
+    /* margin-right: 20px;
+    margin-top: 10px; */
+    margin: 20px;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: center;
+    height: 35px;
+    
+}
+.navbar_container a:hover
+{
+    background-color: #1369b9;
+    color: white;
+    font-weight: 500;
+    border: 1px solid white;
+    font-size: 20px;
+    padding: 5px 5px;
+    text-decoration: none;
+    border-radius: 5px;
+    /* margin: 10px; */
+   
+}
